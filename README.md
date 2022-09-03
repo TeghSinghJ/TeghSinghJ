@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tegh Singh Juni</h1>
-<h3 align="center">Student at KITS, Warangal.</h3>
+<h3 align="center">Student at Kakatiya Institute Of Technology and Science, Warangal.</h3>
 <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=TeghSinghJ&label=Profile%20views&color=0e75b6&style=flat"
     alt="TeghSinghJ" /> 
