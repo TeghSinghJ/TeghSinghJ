@@ -62,9 +62,9 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /><br/>
+      width="40" height="40" />
       <img
-      src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="React"
+      src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png" alt="React"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="python"
       width="40" height="40" />
@@ -74,17 +74,17 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=TeghSinghJ&show_icons=true&locale=en&bg_color=e5e4e2&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=TeghSinghJ&show_icons=true&theme=transparent&locale=en&bg_color=e5e4e2&layout=compact"
     alt="tegh" /></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeghSinghJ&show_icons=true&locale=en&bg_color=e5e4e2&text_color=000000&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TeghSinghJ&show_icons=true&locale=en&theme=transparent&text_color=000000&repo=convoychat"
     alt="tegh" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeghSinghJ&theme=light&background=e5e4e2&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TeghSinghJ&theme=transparent&background=e5e4e2&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
       
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
