@@ -64,7 +64,7 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
       width="40" height="40" /><br/>
       <img
-      src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="photoshop"
+      src="https://assets.stickpng.com/images/584830f5cef1014c0b5e4aa1.png" alt="React"
       width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
       src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png" alt="python"
       width="40" height="40" />
