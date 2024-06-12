@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * *" # Runs every day at midnight
   push:
     branches:
-      - main # Triggers on push to main branch
+      - main # Triggers on push to the main branch
 
 jobs:
   build:
@@ -15,11 +15,15 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Generate Snake Animation
-        uses: Platane/snk@v2
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
         with:
-          github_user_name: TeghSinghJ
-          output: dist/snake.svg
+          node-version: '14'
+
+      - name: Generate Snake Animation
+        run: |
+          npm install -g snk
+          snk generate --github_user_name TeghSinghJ --output dist/snake.svg
 
       - name: Commit and Push Changes
         run: |
