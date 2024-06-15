@@ -28,7 +28,8 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Next js<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Next js<br>🎯 Goals: Build Scalable Applications<br>🎲 Fun fact: I can code in multiple languages, but I still mix up syntax sometimes!
+</p>
 
 ###
 
